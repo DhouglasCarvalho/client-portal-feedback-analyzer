@@ -1,3 +1,5 @@
+--Streamlit: https://client-app-feedback-analyzer-5hphqpcvnsndkkad4ewfcr.streamlit.app/
+
 # Client Portal Feedback Analyzer
 
 A Streamlit-based product management case study that analyzes customer feedback for a simulated B2B client-facing web platform.
