@@ -1,0 +1,31 @@
+Feedback_ID,Date,User_Segment,User_Role,Feature_Area,Feedback,Rating,Channel
+1,2026-01-08,Enterprise,Client Admin,Onboarding,"The onboarding workflow has too many manual steps and new users are unsure which access request path to choose.",2,Support Ticket
+2,2026-01-10,Enterprise,Operations Lead,Dashboard,"The dashboard gives a helpful overview of pending items, but status definitions are not always clear.",4,Survey
+3,2026-01-12,Mid-Market,Client User,Search,"Search results take too long to load when filtering by account or project name.",2,Support Ticket
+4,2026-01-14,Enterprise,Client Admin,Access Management,"The permissions screen is difficult to understand, especially when assigning multiple roles to the same user.",2,User Interview
+5,2026-01-16,Enterprise,Support Analyst,Authentication,"Several users reported login issues after password reset, especially when switching devices.",2,Support Ticket
+6,2026-01-18,Mid-Market,Client User,Reporting,"The export to CSV feature is useful and reduces manual reporting work.",5,Survey
+7,2026-01-19,Enterprise,Operations Lead,Performance,"Analytics pages load slowly during peak morning usage.",2,Support Ticket
+8,2026-01-21,Enterprise,Client Admin,Audit Log,"The audit log is valuable, but filters are limited and make investigations slower.",3,User Interview
+9,2026-01-22,Small Business,Client User,Navigation,"The new navigation makes it easier to find reports and account settings.",5,Survey
+10,2026-01-24,Enterprise,Client Admin,Access Management,"Role names are too similar, making it hard to know which permissions each user actually receives.",2,Support Ticket
+11,2026-01-25,Mid-Market,Client User,Mobile Experience,"The mobile layout is hard to use when reviewing dashboard items from a phone.",2,Survey
+12,2026-01-26,Enterprise,Support Analyst,Onboarding,"Support receives repeated questions about how to complete onboarding and entitlement setup.",3,Support Ticket
+13,2026-01-27,Enterprise,Operations Lead,Reporting,"Reports are helpful, but large exports occasionally timeout before the file is ready.",3,Support Ticket
+14,2026-01-28,Enterprise,Client Admin,Access Management,"There is no clear confirmation message after changing user access, so admins are unsure if updates were saved.",3,User Interview
+15,2026-01-30,Mid-Market,Client User,Platform Stability,"The platform feels more stable after the latest release.",5,Survey
+16,2026-02-02,Enterprise,Client Admin,Onboarding,"Bulk user onboarding would save time for large teams that add many users at once.",3,User Interview
+17,2026-02-04,Enterprise,Operations Lead,Dashboard,"The dashboard should show aging items so managers can quickly identify overdue work.",4,Survey
+18,2026-02-05,Small Business,Client User,Authentication,"The session timeout feels too short when working through longer reports.",3,Support Ticket
+19,2026-02-07,Enterprise,Support Analyst,Search,"Support agents need better search by user email, account number, and request status.",3,User Interview
+20,2026-02-09,Enterprise,Client Admin,Access Management,"Removing access for terminated users requires too many clicks and creates operational risk.",2,Support Ticket
+21,2026-02-11,Mid-Market,Client User,Reporting,"Scheduled reports would reduce recurring manual downloads every week.",4,Survey
+22,2026-02-13,Enterprise,Operations Lead,Performance,"Dashboard refresh takes longer when multiple filters are applied.",2,Support Ticket
+23,2026-02-14,Enterprise,Client Admin,Audit Log,"Audit history should show who approved access changes, not just who submitted them.",3,User Interview
+24,2026-02-16,Small Business,Client User,Navigation,"Some settings are buried too deep in the menu structure.",3,Survey
+25,2026-02-18,Enterprise,Support Analyst,Onboarding,"A guided checklist would reduce onboarding mistakes and support tickets.",4,User Interview
+26,2026-02-20,Enterprise,Client Admin,Access Management,"Admins need a clearer way to compare access levels across users.",2,Support Ticket
+27,2026-02-22,Mid-Market,Client User,Mobile Experience,"The mobile experience works for viewing information but not for completing actions.",3,Survey
+28,2026-02-24,Enterprise,Operations Lead,Reporting,"Export files should include applied filter criteria so teams can validate report context.",4,User Interview
+29,2026-02-26,Enterprise,Support Analyst,Authentication,"Users are confused when login errors do not explain whether the issue is password, access, or account status.",2,Support Ticket
+30,2026-02-28,Enterprise,Client Admin,Dashboard,"The dashboard is useful, but admins want configurable widgets by role.",4,Survey
